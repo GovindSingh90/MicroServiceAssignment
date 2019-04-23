@@ -11,7 +11,8 @@ eureka:
       defaultZone: http://localhost:5001/eureka
       
 server:
-  port: 0 
+  port: 0  
+
   
 logging:
   level: 

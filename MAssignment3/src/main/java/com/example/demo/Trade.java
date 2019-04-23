@@ -42,6 +42,7 @@ public class Trade {
 
 	public void setQty(int qty) {
 		this.qty = qty;
+		
 	}
 
 	public double getTotalcost() {
